@@ -17,7 +17,7 @@
  * <http://www.doctrine-project.org>.
  */
 
-namespace Doctrine\Common\Inflector;
+namespace JazzMan\Inflector;
 
 /**
  * Doctrine inflector has static methods for inflecting text.

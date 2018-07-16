@@ -1,0 +1,19 @@
+{
+    "name": "jazzman/inflector",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "V.Sokolyk",
+            "email": "vsokolyk@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "JazzMan\\Inflector\\": ""
+        }
+    }
+}

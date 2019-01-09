@@ -1,0 +1,2 @@
+# inflector
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1b4d57151a354bfabe9a1a79481f3a30)](https://app.codacy.com/app/vsokolyk/inflector?utm_source=github.com&utm_medium=referral&utm_content=Jazz-Man/inflector&utm_campaign=Badge_Grade_Settings)
